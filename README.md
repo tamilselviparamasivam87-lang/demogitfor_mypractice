@@ -1,2 +1,2 @@
-# demogitfor_mypractice
+# demogit_mypractice
 calling llm 
